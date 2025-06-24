@@ -1,7 +1,7 @@
 # 🚀 Cheeto-Essay-Maker 
 
 <p align="center">
-  <a href="<a href="https://emoji.gg/emoji/36734-crocodile"><img src="https://cdn3.emoji.gg/emojis/36734-crocodile.png" width="64px" height="64px" alt="crocodile"></a>">
+  <a href="<a href="https://emoji.gg/emoji/36734-crocodile"><img src="https://cdn3.emoji.gg/emojis/36734-crocodile.png" width="64px" height="64px" alt="crocodile"></a>
     
 </p>
 
